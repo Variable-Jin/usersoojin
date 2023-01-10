@@ -12,14 +12,14 @@
 
 <div align="center">
 
-####  🛠️ available stacks 🛠️
+####  🛠️ Available stacks 🛠️
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=Python&logoColor=white"/>
 
 
 <br/>
 </br>
 
-#### :books: studying stacks :books:
+#### :books: Studying stacks :books:
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 
 <br/>
@@ -28,7 +28,7 @@
 <br/>
 </br>
 
-#### :gem: Github stats :gem:
+#### :gem: Github stacts :gem:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Variable-Jin&layout=compact&theme=tokyonight"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Variable-Jin&show_icons=true&theme=tokyonight">
 
