@@ -25,11 +25,15 @@
 
 <br/>
 </br>
-</div>
 
+<br/>
+</br>
+
+#### :gem: Github stats :gem:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usersoojin&layout=compact&theme=tokyonight"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=usersoojin&show_icons=true&theme=tokyonight">
 
+</div>
 <!--
 **usersoojin/usersoojin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
