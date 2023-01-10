@@ -30,10 +30,8 @@
 </br>
 
 #### :gem: Github stats :gem:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Variable-Jin
-&layout=compact&theme=tokyonight"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Variable-Jin
-&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usersoojin&layout=compact&theme=tokyonight"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=usersoojin&show_icons=true&theme=tokyonight">
 
 </div>
 <!--
