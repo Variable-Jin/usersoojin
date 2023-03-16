@@ -5,7 +5,9 @@
 
 <div align="center">
 
-  ####  :wave: Welcome my github profile !
+  ####  :wave: Introduction
+  안녕하세요! 모의해킹 분석가를 꿈꾸고 있습니다.
+  매일매일 성장하기 위해 공부중입니다.
 
 
 </div>
