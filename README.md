@@ -5,9 +5,9 @@
 
 <div align="center">
 
-  ####  :wave: Introduction
+  ####  :blue_heart: Introduction :blue_heart:
   안녕하세요! 모의해킹 분석가를 꿈꾸고 있습니다. <br>
-  매일매일 성장하기 위해 공부중입니다. </br>
+  성장하기 위해 매일매일 공부중입니다. 🌱 </br>
 
 
 </div>
@@ -23,7 +23,7 @@
 </br>
 
 #### :books: Studying stacks :books:
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/> 
 
 <br/>
 </br>
